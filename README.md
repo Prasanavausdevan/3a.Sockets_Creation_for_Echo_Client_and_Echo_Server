@@ -32,8 +32,10 @@ while True:
 ```
 ## OUTPUT:
 ## Client:
+![3aclient](https://github.com/Prasanavausdevan/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870579/4d0d2b95-f6ff-4ed5-983b-c96f01dc8c5a)
 
 ## Servera
+![3aserver](https://github.com/Prasanavausdevan/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/144870579/5385c415-e071-4911-970e-94784abfe157)
 
 
 ## RESULT:
